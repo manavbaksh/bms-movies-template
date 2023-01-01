@@ -1,0 +1,15 @@
+.mainData {
+  position: absolute;
+  top: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-evenly;
+}
+
+.noResult-message {
+  text-align: center;
+  color: rgb(62, 63, 65);
+  width: 100vw;
+  height: 100vh;
+}
