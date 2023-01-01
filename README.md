@@ -45,5 +45,5 @@ Template provides the functionality of search based filter and language filter.
 - I divided the whole website into chunks of components as much as possible making it resusable
 - Fetched data from api and populated the page with content cards.
 - Used the "lifting state up" technique to share and update states between components
-- Used bebouncing search based filter to show content cards whose title matches search query
+- Used debouncing search based filter to show content cards whose title matches search query
 - Implemented language based filter
